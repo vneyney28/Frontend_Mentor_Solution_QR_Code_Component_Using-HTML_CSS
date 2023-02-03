@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Live Site URL: https://vneyney28.github.io/vneyney28-Frontend_Mentor_Solution_QR_Code_Component_Using-HTML_CSS-to-confirm./
+- Live Site URL: https://vneyney28.github.io/Frontend_Mentor_Solution_QR_Code_Component_Using-HTML_CSS/
 
 ### Built with
 
