@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://vneyney28.github.io/vneyney28-Frontend_Mentor_Solution_QR_Code_Component_Using-HTML_CSS-to-confirm./
 
 ### Built with
 
@@ -13,4 +13,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 #### Author
 
-- Website - [Varshney Aditya](www.linkedin.com/in/varshneyaditya28)
+- Website - [Varshney Aditya] www.linkedin.com/in/varshneyaditya28
