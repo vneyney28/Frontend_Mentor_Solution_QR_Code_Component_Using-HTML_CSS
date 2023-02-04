@@ -1,18 +1,14 @@
 body{
     background-color: rgb(211, 228, 233);
-    height: 100%;
-    width: 100%;    
+    min-height: 100vh;     
     display: flex;
     justify-content: center;
     align-items: center;      
     font-family: "Outfit", serif;  
 }
-
-img{        
-    
+img{            
     border-radius: 0.675rem;
-    height: 275px;
-    width: 275px;    
+    max-width: 100%;    
 }
 p{
     color: rgb(108, 108, 108);
@@ -23,18 +19,11 @@ h1 {
     color: hsl(218, 44%, 22%);
     font-weight: 700;
   }
-.card{
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
-
+.card{  
     text-align: center;    
-     background-color: white; 
-    padding: 15px 15px 45px;    
-    margin-bottom: 10px;
-    width: 285px;
-    height: 440px;
+    background-color: white; 
+    padding: 15px 15px 45px;        
+    width: 285px;    
     border-radius: 0.675rem;     
 }
 .attribution {
